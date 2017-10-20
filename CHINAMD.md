@@ -1,4 +1,16 @@
+inspeckage
+
+======
+
 工具介绍
+
+--------
+
+[中文](https://github.com/ihbing/Inspeckage/blob/master/CHINAMD.md) 
+
+[我的博客](https://github.com/ihbing/Inspeckage/blob/master/README.md) 
+
+
 一个基于Xposed 开发的应用动态分析工具 github已开源  内置web页面 体验度很不错  ‘
 核心功能 监控Shared Preferences  数据  绕过SSL 可以抓到https 以及使用HOOK  过滤出很多有价值的数据
 
