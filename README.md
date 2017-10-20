@@ -1,5 +1,7 @@
 # <img src="http://i.imgur.com/dupvus6.png" width="100" /> Inspeckage - Android Package Inspector
 
+<a hre="https://github.com/ihbing/Inspeckage/blob/master/CHINAMD.md">中文说明</a>
+
 Inspeckage is a tool developed to offer dynamic analysis of Android applications. By applying hooks to functions of the Android API, Inspeckage will help you understand what an Android application is doing at runtime. 
 
 * http://ac-pm.github.io/Inspeckage
